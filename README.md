@@ -92,7 +92,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{ma2026kdmvnet,
-  title={Selective Cross-View Learning for Recognizing Open-Surgical Gestures and Errors},
+  title={SurgR-MAE: Selective Cross-View Learning for Recognizing Open-Surgical Gestures and Errors},
   author={Ma, Le and Freitas dos Santos, Thiago and Magnenat-Thalmann, Nadia and Philippe, Bijlenga and Wac, Katarzyna},
   year={2026}
 }
